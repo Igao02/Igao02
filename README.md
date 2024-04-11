@@ -19,22 +19,18 @@
  </div>
  
  ### 📫 My networks
-<div>
-  <a href=https://www.linkedin.com/in/lf-araujo/ target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
-  <a href=https://open.spotify.com/user/lfelipe233?si=fb7db3b0fd2441fa target="_blank"><img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white target="_blank"></a>
-</div>
 
-### 📈 GitHub Stats
+### 📈 GitHub Status
  <div>
   <a href="https://github.com/Igao02">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Igao02&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igao02layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igao02&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LFeli/Lfeli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LFeli/Lfeli/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LFeli/Lfeli/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igao02/Igao02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igao02/Igao02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Igao02/Igao02/output/github-contribution-grid-snake.svg">
 </picture>
 
 
