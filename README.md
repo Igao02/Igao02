@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfff,100:0d1117&height=200&section=header&text=Olá,%20eu%20sou%20[SEU%20NOME]!&fontSize=40&fontColor=00bfff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfff,100:0d1117&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20Igor%20Abiezer!&fontSize=40&fontColor=00bfff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=8b949e)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;C%23+%2F+.NET+%7C+JavaScript+%2F+TypeScript;React+%7C+Node.js+%7C+Blazor;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ```ts
 const dev = {
-  nome:     "[SEU NOME]",
+  nome:     "Igor Abiezer",
   area:     "Full Stack Developer",
   stack:    ["C#", ".NET", "JavaScript", "TypeScript"],
   frontend: ["React", "Blazor"],
@@ -49,17 +49,26 @@ const dev = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USERNAME]&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00bfff&title_color=00bfff&icon_color=00bfff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Igao02&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00bfff&title_color=00bfff&icon_color=00bfff"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USERNAME]&layout=compact&langs_count=7&theme=github_dark&border_color=00bfff&title_color=00bfff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igao02&layout=compact&langs_count=7&theme=github_dark&border_color=00bfff&title_color=00bfff"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=[SEU-USERNAME]&theme=dark&border=00bfff&ring=00bfff&fire=00bfff&currStreakLabel=00bfff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Igao02&theme=dark&border=00bfff&ring=00bfff&fire=00bfff&currStreakLabel=00bfff)
 
 </div>
+
+---
+
+## 🎓 Formação
+
+![FATEC](https://img.shields.io/badge/FATEC%20Sorocaba-0d1117?style=for-the-badge&logo=graduation-cap&logoColor=00bfff)
+
+**Análise e Desenvolvimento de Sistemas** — FATEC Sorocaba
+📅 2021 – 2024
 
 ---
 
@@ -67,10 +76,9 @@ const dev = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU-EMAIL])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[SEU-USERNAME])
-[![Portfolio](https://img.shields.io/badge/Portfolio-00bfff?style=for-the-badge&logo=vercel&logoColor=white)](https://[SEU-SITE].com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-abiezer-a83a58216)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorabiezer08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Igao02)
 
 </div>
 
